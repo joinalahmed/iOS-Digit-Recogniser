@@ -4,4 +4,3 @@ iOS digit handwriting classifier. Leverages Apple CoreML and Vision frameworks i
 
 ```mnist.py``` contains the Keras model, including loading the dataset and training. ```coreMLConverter.py``` loads Keras model and converts into a .mlmodel file.
 
-<img src="Screenshot.png" height="700" />

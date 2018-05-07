@@ -1,5 +1,4 @@
-# Akhil Waghmare
-# akhil@awlabs.technology
+
 
 # import saved model from file
 from keras.models import load_model

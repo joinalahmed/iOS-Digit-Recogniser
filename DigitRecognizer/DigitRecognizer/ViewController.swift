@@ -2,9 +2,7 @@
 //  ViewController.swift
 //  DigitRecognizer
 //
-//  Created by Akhil Waghmare on 6/11/17.
-//  Copyright © 2017 AW Labs. All rights reserved.
-//
+
 
 import UIKit
 import Vision

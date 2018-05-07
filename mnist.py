@@ -1,5 +1,4 @@
-# Akhil Waghmare
-# akhil@awlabs.technology
+
 
 import keras
 # make sure using Keras version 1.2.2 for coremltools support
